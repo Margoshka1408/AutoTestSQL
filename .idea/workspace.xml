@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a37fd33a-30d7-4718-954f-85d42f5f476e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/demo/migration/V1_1_0__add_employee_info.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/demo/migration/V2_1_0__add_employee.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/home/migration/V1_1_0__add_product.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/home/migration/V2_1_0__add_customers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/home/migration/V3_1_0__add_order.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/home/migration/V4_1_0__add_orders_products.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/home/migration/V5_1_0__add_courier.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/home/migration/V6_1_0__delivery.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/seminar/migration/V1_1_0__add_client.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/seminar/migration/V2_1_0__add_emploee.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/seminar/migration/V3_1_0__add_debit.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/seminar/migration/V4_1_0__add_current.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/seminar/migration/V5_1_0__add_credit.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_simple_sql.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.10.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hibernate-core-5.4.11.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jandex-2.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demo/ConnectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demo/HibernateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home/CourierInfoEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home/CustomersEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home/DeliveryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home/MainHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home/OrdersEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home/OrdersProductsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home/OrdersProductsEntityPK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/home/ProductsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar/CreditTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar/CurrentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar/DebitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/home/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/home/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/home/ProductTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2a5lsh5QdPw77rqH1miwbUvRUTL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Margosha/untitled/src/main/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Margosha\untitled\src\main\java" />
+      <recent name="C:\Users\Margosha\untitled" />
+      <recent name="C:\Users\Margosha\untitled\target" />
+      <recent name="C:\Users\Margosha\untitled\.idea" />
+      <recent name="C:\Users\Margosha\untitled\src\test\java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a37fd33a-30d7-4718-954f-85d42f5f476e" name="Changes" comment="" />
+      <created>1703616531925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703616531925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
