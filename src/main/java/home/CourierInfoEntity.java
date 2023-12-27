@@ -1,3 +1,5 @@
+//package у данного класса и у всех в папке home должен быть org.max.home
+//у Вас нарушена структура проекта
 package home;
 
 import javax.persistence.*;
