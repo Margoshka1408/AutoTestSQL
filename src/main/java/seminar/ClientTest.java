@@ -1,3 +1,4 @@
+//как тут оказалсиь тесты ?
 package seminar;
 
 import org.hibernate.Session;
